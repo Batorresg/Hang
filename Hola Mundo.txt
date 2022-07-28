@@ -1,5 +1,5 @@
 public class NoHolaMundo {
 	public static void main(String[] args) {		
-
+		console.log('Hola mundo');
 	}
 }
