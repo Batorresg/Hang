@@ -1,0 +1,7 @@
+
+--Mover archivos a carpeta en PY
+import shutil
+
+shutil.copy("archivo.txt", "Documentos/archivo.txt")
+
+shutil.copy("antiguo-nombre.txt", "nuevo-nombre.txt")
